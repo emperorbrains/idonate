@@ -77,7 +77,7 @@
     "vuejs-datepicker": "^1.6.2",
     "vuex": "^3.0.1",
     "weekstart": "^1.0.0",
-    "xlsx": "^0.14.3"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "@fortawesome/fontawesome-free": "^5.9.0",
