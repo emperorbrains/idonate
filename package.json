@@ -49,7 +49,7 @@
     "lodash": "^4.17.11",
     "luxon": "^1.13.2",
     "moment": "^2.24.0",
-    "moment-timezone": "^0.5.26",
+    "moment-timezone": "^0.5.35",
     "popper.js": "^1.15.0",
     "postcss-loader": "^3.0.0",
     "raw-loader": "^0.5.1",
