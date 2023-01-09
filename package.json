@@ -47,7 +47,7 @@
     "graphql-tag": "^2.10.0",
     "jquery": "^3.4.1",
     "lodash": "^4.17.11",
-    "luxon": "^1.13.2",
+    "luxon": "^1.28.1",
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.26",
     "popper.js": "^1.15.0",
